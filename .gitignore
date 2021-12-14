@@ -1,0 +1,7 @@
+.vs/
+WinUI3/bin/
+WinUI3/obj/
+WPF/bin/
+WPF/obj/
+WPF/WPF.csproj.user
+WinUI3/WinUI3.csproj.user

@@ -1,0 +1,449 @@
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\WinUI3.exe'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\hostfxr.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\hostpolicy.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\coreclr.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Symbols loaded.
+The thread 0x4bb4 has exited with code 0 (0x0).
+Profiler was prevented from loading notification profiler due to app settings.
+  Process ID (decimal): 26084.  Message ID: [0x2509].
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Private.CoreLib.dll'. 
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\clrjit.dll'. Symbols loaded.
+'WinUI3.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\WinUI3.dll'. 
+'WinUI3.exe' (Win32): Unloaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\WinUI3.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\WinUI3.dll'. 
+The thread 0x76cc has exited with code 0 (0x0).
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\WinUI3.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Runtime.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\icu.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\WinRT.Runtime.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\WinRT.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Runtime.InteropServices.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Runtime.InteropServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Collections.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Collections.Concurrent.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Collections.Concurrent.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Threading.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\Microsoft.WinUI.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\Microsoft.WinUI.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.ui.xaml.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.Internal.FrameworkUdk.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.UI.Xaml.Internal.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\DWrite.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\d2d1.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\dcomp.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\BCP47Langs.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Microsoft.Internal.FrameworkUdk.System.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.StateRepositoryCore.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Runtime.CompilerServices.Unsafe.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Runtime.CompilerServices.Unsafe.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Private.Uri.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Private.Uri.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.ObjectModel.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.ObjectModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.ComponentModel.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.ComponentModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Numerics.Vectors.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Numerics.Vectors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\Microsoft.Windows.SDK.NET.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\Microsoft.Windows.SDK.NET.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Linq.Expressions.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Linq.Expressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Security.Cryptography.Algorithms.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Security.Cryptography.Algorithms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Security.Cryptography.Primitives.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Security.Cryptography.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Security.Cryptography.Csp.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Security.Cryptography.Csp.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Linq.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Memory.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Reflection.Emit.ILGeneration.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Reflection.Emit.ILGeneration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Reflection.Emit.Lightweight.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Reflection.Emit.Lightweight.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Reflection.Primitives.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Reflection.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Reflection.Emit.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\System.Reflection.Emit.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'Snippets'. 
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\urlmon.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\netutils.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\srvcli.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\CoreMessagingXP.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.ApplicationModel.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\directxdatabasehelper.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.Immersive.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvmsoa.inf_amd64_6f7e46d6970395b5\nvldumdx.dll'. 
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\cryptnet.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\drvstore.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\cfgmgr32.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\cfgmgr32.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\wldp.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\imagehlp.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\Microsoft.InteractiveExperiences.Projection.dll'. 
+'WinUI3.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\WinUI3\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX\Microsoft.InteractiveExperiences.Projection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\rsaenh.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvmsoa.inf_amd64_6f7e46d6970395b5\nvwgf2umx_cfg.dll'. 
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvmsoa.inf_amd64_6f7e46d6970395b5\NvCamera\NvCameraAllowlisting64.dll'. 
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvmsoa.inf_amd64_6f7e46d6970395b5\NvCamera\NvCameraAllowlisting64.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.Windows.ApplicationModel.Resources.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\MRM.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\BCP47mrm.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Globalization.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\TextShaping.dll'. Symbols loaded.
+The thread 0x8fdc has exited with code 0 (0x0).
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.UI.Xaml.Controls.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\rometadata.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x86__8wekyb3d8bbwe\Microsoft.UI.Xaml.winmd'. Module was built without symbols.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\twinapi.appcore.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\dcompi.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.UI.Composition.OSSupport.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\wuceffectsi.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\marshal.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\dwmcorei.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.UI.Windowing.Core.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.InputStateManager.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\D3DCompiler_47.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\ninput.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.UI.Input.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\UIAutomationCore.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\userenv.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\xmllite.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\DataExchange.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\OneCoreUAPCommonProxyStub.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\WinUIEdit.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\usp10.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\ELSCore.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\globinputhost.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. Symbols loaded.
+14.12.2021 19:40:32 WinUI3 MainWindow
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\oleacc.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\sxs.dll'. Symbols loaded.
+mincore\com\oleaut32\dispatch\ups.cpp(2126)\OLEAUT32.dll!00007FF98E271924: (caller: 00007FF98E271A5A) ReturnHr(1) tid(6494) 8002801D Bibliothek nicht registriert.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\x64\WinUI3\Microsoft.VisualStudio.DesignTools.WinUITap.dll'. Symbols loaded.
+Microsoft.ui.xaml.dll!00007FF9086D7A75: (caller: 00007FF8C5ABDA93) ReturnHr(1) tid(6494) 80070057 Falscher Parameter.
+Microsoft.ui.xaml.dll!00007FF9086D7A75: (caller: 00007FF8C5ABDA93) ReturnHr(2) tid(6494) 80070057 Falscher Parameter.
+Microsoft.ui.xaml.dll!00007FF9086D7A75: (caller: 00007FF8C5ABDA93) ReturnHr(3) tid(6494) 80070057 Falscher Parameter.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.DirectManipulation.dll'. Symbols loaded.
+onecoreuap\windows\frameworkudk\dxprivatescommon.cpp(53)\Microsoft.Internal.FrameworkUdk.System.dll!00007FF8D2754989: (caller: 00007FF8CC86966D) ReturnHr(1) tid(6494) 80004002 Schnittstelle nicht unterstützt
+onecoreuap\windows\frameworkudk\dxprivatescommon.cpp(53)\Microsoft.Internal.FrameworkUdk.System.dll!00007FF8D2754989: (caller: 00007FF8CC86966D) ReturnHr(2) tid(6494) 80004002 Schnittstelle nicht unterstützt
+onecoreuap\windows\frameworkudk\dxprivatescommon.cpp(53)\Microsoft.Internal.FrameworkUdk.System.dll!00007FF8D2754989: (caller: 00007FF8CC86966D) ReturnHr(3) tid(a070) 80004002 No such interface supported
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvmsoa.inf_amd64_6f7e46d6970395b5\NvCamera\NvCameraAllowlisting64.dll'. 
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvmsoa.inf_amd64_6f7e46d6970395b5\NvCamera\NvCameraAllowlisting64.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvmsoa.inf_amd64_6f7e46d6970395b5\NvCamera\NvCameraAllowlisting64.dll'. 
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvmsoa.inf_amd64_6f7e46d6970395b5\NvCamera\NvCameraAllowlisting64.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\cabinet.dll'. Symbols loaded.
+The thread 0x7044 has exited with code 0 (0x0).
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\elsTrans.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\elsTrans.dll'
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\MsSpellCheckingFacility.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\edputil.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\vaultcli.dll'. Symbols loaded.
+14.12.2021 19:40:50 OnClickStart: WebMessage DT-Overlay DT-Events @ https://www.bundestag.de/abgeordnete/biografien
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.1.0_0.319.455.0_x64__8wekyb3d8bbwe\Microsoft.Web.WebView2.Core.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Program Files (x86)\Microsoft\EdgeWebView\Application\96.0.1054.53\EBWebView\x64\EmbeddedBrowserWebView.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Storage.ApplicationData.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.FileExplorer.Common.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.StateRepositoryPS.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\Windows.StateRepositoryClient.dll'. Symbols loaded.
+onecore\com\combase\objact\objact.cxx(4080)\combase.dll!00007FF98E585105: (caller: 00007FF98E581B12) ReturnHr(1) tid(9988) 80040154 Class not registered
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\mssprxy.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\daxexec.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\container.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. Symbols loaded.
+'WinUI3.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+14.12.2021 19:40:52 OnInspectNodeRequested {"backendNodeId":46}
+14.12.2021 19:40:53 OnInspectNodeRequested {"backendNodeId":17}
+14.12.2021 19:40:53 OnInspectNodeRequested {"backendNodeId":122}
+14.12.2021 19:40:54 OnInspectNodeRequested {"backendNodeId":126}
+14.12.2021 19:40:54 OnInspectNodeRequested {"backendNodeId":16}
+14.12.2021 19:40:55 OnInspectNodeRequested {"backendNodeId":133}
+14.12.2021 19:40:55 OnInspectNodeRequested {"backendNodeId":134}
+14.12.2021 19:40:57 OnInspectNodeRequested {"backendNodeId":153}
+14.12.2021 19:40:57 OnInspectNodeRequested {"backendNodeId":156}
+14.12.2021 19:40:58 OnInspectNodeRequested {"backendNodeId":157}
+14.12.2021 19:40:58 OnInspectNodeRequested {"backendNodeId":158}
+14.12.2021 19:40:58 OnInspectNodeRequested {"backendNodeId":159}
+14.12.2021 19:40:59 OnInspectNodeRequested {"backendNodeId":153}
+14.12.2021 19:40:59 OnInspectNodeRequested {"backendNodeId":58}
+14.12.2021 19:41:00 OnWebMessageReceived "{}"
+14.12.2021 19:41:01 OnInspectNodeRequested {"backendNodeId":23}
+14.12.2021 19:41:01 OnInspectNodeRequested {"backendNodeId":160}
+14.12.2021 19:41:02 OnInspectNodeRequested {"backendNodeId":126}
+14.12.2021 19:41:02 OnInspectNodeRequested {"backendNodeId":128}
+The thread 0xa2d4 has exited with code 0 (0x0).
+14.12.2021 19:41:03 OnInspectNodeRequested {"backendNodeId":23}
+14.12.2021 19:41:04 OnInspectNodeRequested {"backendNodeId":17}
+14.12.2021 19:41:04 OnInspectNodeRequested {"backendNodeId":120}
+14.12.2021 19:41:05 OnInspectNodeRequested {"backendNodeId":161}
+14.12.2021 19:41:05 OnInspectNodeRequested {"backendNodeId":5}
+14.12.2021 19:41:05 OnInspectNodeRequested {"backendNodeId":128}
+14.12.2021 19:41:06 OnInspectNodeRequested {"backendNodeId":46}
+14.12.2021 19:41:06 OnInspectNodeRequested {"backendNodeId":134}
+14.12.2021 19:41:07 OnInspectNodeRequested {"backendNodeId":162}
+14.12.2021 19:41:07 OnInspectNodeRequested {"backendNodeId":46}
+14.12.2021 19:41:10 OnInspectNodeRequested {"backendNodeId":164}
+14.12.2021 19:41:10 OnInspectNodeRequested {"backendNodeId":165}
+14.12.2021 19:41:10 OnWebMessageReceived "{}"
+14.12.2021 19:41:11 OnInspectNodeRequested {"backendNodeId":153}
+14.12.2021 19:41:11 OnInspectNodeRequested {"backendNodeId":157}
+14.12.2021 19:41:12 OnInspectNodeRequested {"backendNodeId":142}
+14.12.2021 19:41:13 OnInspectNodeRequested {"backendNodeId":17}
+14.12.2021 19:41:14 OnInspectNodeRequested {"backendNodeId":124}
+14.12.2021 19:41:15 OnInspectNodeRequested {"backendNodeId":160}
+14.12.2021 19:41:15 OnInspectNodeRequested {"backendNodeId":120}
+14.12.2021 19:41:15 OnInspectNodeRequested {"backendNodeId":166}
+14.12.2021 19:41:16 OnInspectNodeRequested {"backendNodeId":167}
+14.12.2021 19:41:16 OnInspectNodeRequested {"backendNodeId":128}
+14.12.2021 19:41:17 OnInspectNodeRequested {"backendNodeId":23}
+14.12.2021 19:41:17 OnInspectNodeRequested {"backendNodeId":168}
+14.12.2021 19:41:18 OnInspectNodeRequested {"backendNodeId":133}
+The thread 0x93e8 has exited with code 0 (0x0).
+14.12.2021 19:41:18 OnInspectNodeRequested {"backendNodeId":162}
+14.12.2021 19:41:20 OnInspectNodeRequested {"backendNodeId":169}
+14.12.2021 19:41:20 OnInspectNodeRequested {"backendNodeId":144}
+14.12.2021 19:41:20 OnWebMessageReceived "{}"
+14.12.2021 19:41:21 OnInspectNodeRequested {"backendNodeId":16}
+The thread 0x9988 has exited with code 0 (0x0).
+14.12.2021 19:41:21 OnInspectNodeRequested {"backendNodeId":23}
+14.12.2021 19:41:22 OnInspectNodeRequested {"backendNodeId":120}
+14.12.2021 19:41:23 OnInspectNodeRequested {"backendNodeId":170}
+14.12.2021 19:41:24 OnInspectNodeRequested {"backendNodeId":171}
+14.12.2021 19:41:25 OnInspectNodeRequested {"backendNodeId":129}
+14.12.2021 19:41:25 OnInspectNodeRequested {"backendNodeId":22}
+14.12.2021 19:41:26 OnInspectNodeRequested {"backendNodeId":124}
+14.12.2021 19:41:27 OnInspectNodeRequested {"backendNodeId":120}
+14.12.2021 19:41:27 OnInspectNodeRequested {"backendNodeId":22}
+14.12.2021 19:41:28 OnInspectNodeRequested {"backendNodeId":42}
+14.12.2021 19:41:29 OnInspectNodeRequested {"backendNodeId":172}
+14.12.2021 19:41:30 OnInspectNodeRequested {"backendNodeId":122}
+14.12.2021 19:41:30 OnWebMessageReceived "{}"
+14.12.2021 19:41:31 OnInspectNodeRequested {"backendNodeId":156}
+14.12.2021 19:41:32 OnInspectNodeRequested {"backendNodeId":173}
+14.12.2021 19:41:32 OnInspectNodeRequested {"backendNodeId":165}
+The thread 0x98a0 has exited with code 0 (0x0).
+14.12.2021 19:41:33 OnInspectNodeRequested {"backendNodeId":173}
+14.12.2021 19:41:33 OnInspectNodeRequested {"backendNodeId":156}
+14.12.2021 19:41:34 OnInspectNodeRequested {"backendNodeId":174}
+14.12.2021 19:41:34 OnInspectNodeRequested {"backendNodeId":41}
+14.12.2021 19:41:35 OnInspectNodeRequested {"backendNodeId":41}
+14.12.2021 19:41:35 OnInspectNodeRequested {"backendNodeId":153}
+14.12.2021 19:41:36 OnInspectNodeRequested {"backendNodeId":175}
+14.12.2021 19:41:36 OnInspectNodeRequested {"backendNodeId":165}
+14.12.2021 19:41:37 OnInspectNodeRequested {"backendNodeId":176}
+14.12.2021 19:41:37 OnInspectNodeRequested {"backendNodeId":157}
+14.12.2021 19:41:38 OnInspectNodeRequested {"backendNodeId":41}
+14.12.2021 19:41:38 OnInspectNodeRequested {"backendNodeId":142}
+14.12.2021 19:41:39 OnInspectNodeRequested {"backendNodeId":144}
+14.12.2021 19:41:39 OnInspectNodeRequested {"backendNodeId":162}
+14.12.2021 19:41:40 OnWebMessageReceived "{}"
+14.12.2021 19:41:41 OnInspectNodeRequested {"backendNodeId":165}
+14.12.2021 19:41:42 OnInspectNodeRequested {"backendNodeId":48}
+14.12.2021 19:41:43 OnInspectNodeRequested {"backendNodeId":158}
+14.12.2021 19:41:43 OnInspectNodeRequested {"backendNodeId":177}
+14.12.2021 19:41:43 OnInspectNodeRequested {"backendNodeId":178}
+14.12.2021 19:41:48 OnInspectNodeRequested {"backendNodeId":179}
+The thread 0x7f78 has exited with code 0 (0x0).
+14.12.2021 19:41:49 OnInspectNodeRequested {"backendNodeId":122}
+14.12.2021 19:41:50 OnInspectNodeRequested {"backendNodeId":122}
+14.12.2021 19:41:50 OnWebMessageReceived "{}"
+14.12.2021 19:41:51 OnInspectNodeRequested {"backendNodeId":46}
+14.12.2021 19:41:51 OnInspectNodeRequested {"backendNodeId":144}
+14.12.2021 19:41:52 OnInspectNodeRequested {"backendNodeId":146}
+14.12.2021 19:41:52 OnInspectNodeRequested {"backendNodeId":133}
+14.12.2021 19:41:53 OnInspectNodeRequested {"backendNodeId":15}
+14.12.2021 19:41:53 OnInspectNodeRequested {"backendNodeId":23}
+14.12.2021 19:41:54 OnInspectNodeRequested {"backendNodeId":118}
+14.12.2021 19:41:56 OnInspectNodeRequested {"backendNodeId":180}
+14.12.2021 19:41:56 OnInspectNodeRequested {"backendNodeId":181}
+14.12.2021 19:41:57 OnInspectNodeRequested {"backendNodeId":159}
+14.12.2021 19:41:58 OnInspectNodeRequested {"backendNodeId":182}
+14.12.2021 19:41:58 OnInspectNodeRequested {"backendNodeId":181}
+14.12.2021 19:41:59 OnInspectNodeRequested {"backendNodeId":157}
+14.12.2021 19:42:00 OnWebMessageReceived "{}"
+14.12.2021 19:42:10 OnWebMessageReceived "{}"
+14.12.2021 19:42:20 OnWebMessageReceived "{}"
+The thread 0x7d0c has exited with code 0 (0x0).
+14.12.2021 19:42:30 OnWebMessageReceived "{}"
+14.12.2021 19:42:40 OnWebMessageReceived "{}"
+14.12.2021 19:42:50 OnWebMessageReceived "{}"
+14.12.2021 19:42:52 OnInspectNodeRequested {"backendNodeId":183}
+14.12.2021 19:42:53 OnInspectNodeRequested {"backendNodeId":164}
+14.12.2021 19:42:53 OnInspectNodeRequested {"backendNodeId":156}
+14.12.2021 19:42:54 OnInspectNodeRequested {"backendNodeId":153}
+14.12.2021 19:42:54 OnInspectNodeRequested {"backendNodeId":164}
+14.12.2021 19:42:55 OnInspectNodeRequested {"backendNodeId":183}
+14.12.2021 19:42:55 OnInspectNodeRequested {"backendNodeId":157}
+14.12.2021 19:42:56 OnInspectNodeRequested {"backendNodeId":142}
+14.12.2021 19:42:56 OnInspectNodeRequested {"backendNodeId":144}
+14.12.2021 19:42:57 OnInspectNodeRequested {"backendNodeId":146}
+14.12.2021 19:42:57 OnInspectNodeRequested {"backendNodeId":133}
+14.12.2021 19:42:58 OnInspectNodeRequested {"backendNodeId":174}
+14.12.2021 19:42:58 OnInspectNodeRequested {"backendNodeId":177}
+14.12.2021 19:42:59 OnInspectNodeRequested {"backendNodeId":159}
+14.12.2021 19:42:59 OnInspectNodeRequested {"backendNodeId":164}
+14.12.2021 19:42:59 OnInspectNodeRequested {"backendNodeId":183}
+14.12.2021 19:43:00 OnInspectNodeRequested {"backendNodeId":184}
+14.12.2021 19:43:00 OnInspectNodeRequested {"backendNodeId":181}
+14.12.2021 19:43:00 OnWebMessageReceived "{}"
+14.12.2021 19:43:01 OnInspectNodeRequested {"backendNodeId":185}
+14.12.2021 19:43:01 OnInspectNodeRequested {"backendNodeId":186}
+14.12.2021 19:43:02 OnInspectNodeRequested {"backendNodeId":163}
+14.12.2021 19:43:03 OnInspectNodeRequested {"backendNodeId":187}
+14.12.2021 19:43:05 OnInspectNodeRequested {"backendNodeId":125}
+14.12.2021 19:43:05 OnInspectNodeRequested {"backendNodeId":124}
+14.12.2021 19:43:06 OnInspectNodeRequested {"backendNodeId":122}
+14.12.2021 19:43:06 OnInspectNodeRequested {"backendNodeId":120}
+14.12.2021 19:43:07 OnInspectNodeRequested {"backendNodeId":188}
+14.12.2021 19:43:07 OnInspectNodeRequested {"backendNodeId":189}
+14.12.2021 19:43:08 OnInspectNodeRequested {"backendNodeId":190}
+14.12.2021 19:43:08 OnInspectNodeRequested {"backendNodeId":191}
+14.12.2021 19:43:10 OnWebMessageReceived "{}"
+14.12.2021 19:43:20 OnWebMessageReceived "{}"
+14.12.2021 19:43:30 OnWebMessageReceived "{}"
+14.12.2021 19:43:36 OnInspectNodeRequested {"backendNodeId":183}
+14.12.2021 19:43:36 OnInspectNodeRequested {"backendNodeId":164}
+14.12.2021 19:43:37 OnInspectNodeRequested {"backendNodeId":192}
+14.12.2021 19:43:38 OnInspectNodeRequested {"backendNodeId":156}
+14.12.2021 19:43:39 OnInspectNodeRequested {"backendNodeId":144}
+14.12.2021 19:43:40 OnWebMessageReceived "{}"
+14.12.2021 19:43:50 OnWebMessageReceived "{}"
+14.12.2021 19:44:00 OnWebMessageReceived "{}"
+14.12.2021 19:44:10 OnWebMessageReceived "{}"
+14.12.2021 19:44:14 OnInspectNodeRequested {"backendNodeId":173}
+14.12.2021 19:44:15 OnInspectNodeRequested {"backendNodeId":193}
+14.12.2021 19:44:15 OnInspectNodeRequested {"backendNodeId":183}
+14.12.2021 19:44:16 OnInspectNodeRequested {"backendNodeId":181}
+14.12.2021 19:44:16 OnInspectNodeRequested {"backendNodeId":185}
+14.12.2021 19:44:17 OnInspectNodeRequested {"backendNodeId":159}
+14.12.2021 19:44:17 OnInspectNodeRequested {"backendNodeId":177}
+14.12.2021 19:44:18 OnInspectNodeRequested {"backendNodeId":153}
+14.12.2021 19:44:18 OnInspectNodeRequested {"backendNodeId":194}
+14.12.2021 19:44:19 OnInspectNodeRequested {"backendNodeId":134}
+14.12.2021 19:44:19 OnInspectNodeRequested {"backendNodeId":133}
+14.12.2021 19:44:20 OnInspectNodeRequested {"backendNodeId":146}
+14.12.2021 19:44:20 OnInspectNodeRequested {"backendNodeId":144}
+14.12.2021 19:44:20 OnWebMessageReceived "{}"
+14.12.2021 19:44:24 OnInspectNodeRequested {"backendNodeId":186}
+14.12.2021 19:44:25 OnInspectNodeRequested {"backendNodeId":195}
+14.12.2021 19:44:26 OnInspectNodeRequested {"backendNodeId":196}
+14.12.2021 19:44:26 OnInspectNodeRequested {"backendNodeId":197}
+14.12.2021 19:44:27 OnInspectNodeRequested {"backendNodeId":198}
+14.12.2021 19:44:27 OnInspectNodeRequested {"backendNodeId":199}
+14.12.2021 19:44:29 OnInspectNodeRequested {"backendNodeId":150}
+14.12.2021 19:44:30 OnInspectNodeRequested {"backendNodeId":200}
+14.12.2021 19:44:30 OnWebMessageReceived "{}"
+14.12.2021 19:44:40 OnWebMessageReceived "{}"
+14.12.2021 19:44:50 OnWebMessageReceived "{}"
+14.12.2021 19:45:00 OnWebMessageReceived "{}"
+14.12.2021 19:45:05 OnWebViewProcessFailed Microsoft.Web.WebView2.Core.CoreWebView2ProcessFailedEventArgs
+The thread 0x8798 has exited with code 0 (0x0).
+Exception thrown at 0x00007FF98C6F478C (KernelBase.dll) in WinUI3.exe: WinRT originate error - 0x80000013 : 'The given object has already been closed / disposed and may no longer be used.'.
+onecore\com\combase\winrt\error\restrictederror.cpp(1017)\combase.dll!00007FF98E67A21E: (caller: 00007FF98E56A2F3) ReturnHr(2) tid(6494) 8007007E The specified module could not be found.
+Exception thrown at 0x00007FF98C6F478C (KernelBase.dll) in WinUI3.exe: WinRT originate error - 0x80000013 : 'The given object has already been closed / disposed and may no longer be used.'.
+onecore\com\combase\winrt\error\restrictederror.cpp(1017)\combase.dll!00007FF98E67A21E: (caller: 00007FF98E56A2F3) ReturnHr(3) tid(6494) 8007007E The specified module could not be found.
+Exception thrown at 0x00007FF98C6F478C (KernelBase.dll) in WinUI3.exe: WinRT originate error - 0x80000013 : 'The given object has already been closed / disposed and may no longer be used.'.
+onecore\com\combase\winrt\error\restrictederror.cpp(1017)\combase.dll!00007FF98E67A21E: (caller: 00007FF98E56A2F3) ReturnHr(4) tid(6494) 8007007E The specified module could not be found.
+The thread 0x4bdc has exited with code 0 (0x0).
+Exception thrown at 0x00007FF98C6F478C in WinUI3.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0000000F21D7BB40.
+Exception thrown at 0x00007FF98C6F478C in WinUI3.exe: Microsoft C++ exception: [rethrow] at memory location 0x0000000000000000.
+Exception thrown at 0x00007FF98C6F478C in WinUI3.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0000000F21D7BD00.
+Exception thrown at 0x00007FF98C6F478C in WinUI3.exe: Microsoft C++ exception: [rethrow] at memory location 0x0000000000000000.
+The thread 0x79dc has exited with code 0 (0x0).
+The thread 0x7748 has exited with code 0 (0x0).
+The thread 0x1910 has exited with code 0 (0x0).
+The thread 0x76d0 has exited with code 0 (0x0).
+The thread 0x149c has exited with code 0 (0x0).
+The thread 0x9074 has exited with code 0 (0x0).
+The thread 0x92ec has exited with code 0 (0x0).
+The thread 0x8170 has exited with code 0 (0x0).
+The thread 0x3cc0 has exited with code 0 (0x0).
+The thread 0x77c0 has exited with code 0 (0x0).
+The thread 0x71ac has exited with code 0 (0x0).
+The thread 0x6bb8 has exited with code 0 (0x0).
+The thread 0x42cc has exited with code 0 (0x0).
+The thread 0x2178 has exited with code 0 (0x0).
+The thread 0x39e8 has exited with code 0 (0x0).
+The thread 0xa070 has exited with code 0 (0x0).
+The thread 0x9190 has exited with code 0 (0x0).
+The thread 0x78d8 has exited with code 0 (0x0).
+The thread 0x5558 has exited with code 0 (0x0).
+The thread 0x5978 has exited with code 0 (0x0).
+The thread 0xa134 has exited with code 0 (0x0).
+The thread 0x51e0 has exited with code 0 (0x0).
+The thread 0x4c94 has exited with code 0 (0x0).
+The thread 0x9a64 has exited with code 0 (0x0).
+The thread 0x4d7c has exited with code 0 (0x0).
+The thread 0x68c4 has exited with code 0 (0x0).
+The thread 0x86e0 has exited with code 0 (0x0).
+The thread 0x217c has exited with code 0 (0x0).
+The thread 0x8960 has exited with code 0 (0x0).
+The thread 0x7f80 has exited with code 0 (0x0).
+The thread 0x1cf4 has exited with code 0 (0x0).
+The thread 0x7970 has exited with code 0 (0x0).
+The thread 0x1d70 has exited with code 0 (0x0).
+The thread 0x89d4 has exited with code 0 (0x0).
+The thread 0xa7c8 has exited with code 0 (0x0).
+The program '[26084] WinUI3.exe' has exited with code 0 (0x0).
