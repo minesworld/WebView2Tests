@@ -18,7 +18,7 @@
 'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Runtime.WindowsRuntime.UI.Xaml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Diagnostics.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Private.Uri.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-12/19/2021 6:23:24 PM WPF MainWindow
+12/19/2021 6:23:24 PM UWP MainWindow
 The thread 0x5580 has exited with code 0 (0x0).
 The thread 0x480c has exited with code 0 (0x0).
 'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\UWP\bin\x64\Debug\AppX\Microsoft.Web.WebView2.Core.winmd'. Module was built without symbols.

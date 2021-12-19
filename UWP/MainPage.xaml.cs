@@ -31,7 +31,7 @@ namespace UWP
 
             adressTextBox.Text = "https://www.microsoft.com";
 
-            Debug.WriteLine(DateTime.Now.ToString() + " WPF MainWindow");
+            Debug.WriteLine(DateTime.Now.ToString() + " UWP MainWindow");
         }
 
         private void OnClickNoDTEvent(object sender, RoutedEventArgs e)
