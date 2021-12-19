@@ -1,0 +1,58 @@
+'UWP.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreRuntime.2.2_2.2.30527.2_x64__8wekyb3d8bbwe\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\UWP\bin\x64\Debug\AppX\entrypoint\UWP.exe'. Symbols loaded.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\UWP\bin\x64\Debug\AppX\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\UWP\bin\x64\Debug\AppX\WinMetadata\Windows.winmd'. Module was built without symbols.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Runtime.InteropServices.WindowsRuntime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\UWP\bin\x64\Debug\AppX\Microsoft.UI.Xaml.Markup.winmd'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Reflection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Threading.Tasks.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Runtime.WindowsRuntime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\UWP\bin\x64\Debug\AppX\Microsoft.UI.Xaml.winmd'. Module was built without symbols.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Reflection.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Runtime.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Numerics.Vectors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Runtime.WindowsRuntime.UI.Xaml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Diagnostics.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Program Files\WindowsApps\Microsoft.NET.CoreFramework.Debug.2.2_2.2.30316.1_x64__8wekyb3d8bbwe\System.Private.Uri.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+12/19/2021 6:23:24 PM WPF MainWindow
+The thread 0x5580 has exited with code 0 (0x0).
+The thread 0x480c has exited with code 0 (0x0).
+'UWP.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Users\Michael\Develop\windows\_playground\WebView2Tests\UWP\bin\x64\Debug\AppX\Microsoft.Web.WebView2.Core.winmd'. Module was built without symbols.
+12/19/2021 6:23:33 PM OnClickStart: WebMessage DT-Overlay @ https://www.bundestag.de/abgeordnete
+12/19/2021 6:23:44 PM OnWebMessageReceived "{}"
+The thread 0x2700 has exited with code 0 (0x0).
+12/19/2021 6:23:54 PM OnWebMessageReceived "{}"
+12/19/2021 6:24:04 PM OnWebMessageReceived "{}"
+12/19/2021 6:24:14 PM OnWebMessageReceived "{}"
+12/19/2021 6:24:24 PM OnWebMessageReceived "{}"
+12/19/2021 6:24:34 PM OnWebMessageReceived "{}"
+12/19/2021 6:24:44 PM OnWebMessageReceived "{}"
+12/19/2021 6:24:54 PM OnWebMessageReceived "{}"
+12/19/2021 6:25:04 PM OnWebMessageReceived "{}"
+12/19/2021 6:25:14 PM OnWebMessageReceived "{}"
+12/19/2021 6:25:24 PM OnWebMessageReceived "{}"
+12/19/2021 6:25:34 PM OnWebMessageReceived "{}"
+12/19/2021 6:25:44 PM OnWebMessageReceived "{}"
+12/19/2021 6:25:54 PM OnWebMessageReceived "{}"
+12/19/2021 6:26:04 PM OnWebMessageReceived "{}"
+12/19/2021 6:26:14 PM OnWebMessageReceived "{}"
+12/19/2021 6:26:24 PM OnWebMessageReceived "{}"
+12/19/2021 6:26:34 PM OnWebMessageReceived "{}"
+12/19/2021 6:26:44 PM OnWebMessageReceived "{}"
+12/19/2021 6:26:54 PM OnWebMessageReceived "{}"
+12/19/2021 6:27:04 PM OnWebMessageReceived "{}"
+12/19/2021 6:27:14 PM OnWebMessageReceived "{}"
+12/19/2021 6:27:24 PM OnWebMessageReceived "{}"
+12/19/2021 6:27:34 PM OnWebMessageReceived "{}"
+12/19/2021 6:27:44 PM OnWebMessageReceived "{}"
+12/19/2021 6:27:54 PM OnWebMessageReceived "{}"
+12/19/2021 6:28:04 PM OnWebMessageReceived "{}"
+12/19/2021 6:28:14 PM OnWebMessageReceived "{}"
+12/19/2021 6:28:24 PM OnWebMessageReceived "{}"
+12/19/2021 6:28:32 PM OnWebViewProcessFailed Microsoft.Web.WebView2.Core.CoreWebView2ProcessFailedEventArgs
+12/19/2021 6:28:52 PM OnWebMessageReceived "{}"
+12/19/2021 6:29:02 PM OnWebMessageReceived "{}"
